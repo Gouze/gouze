@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 <!--
 **Gouze/gouze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
